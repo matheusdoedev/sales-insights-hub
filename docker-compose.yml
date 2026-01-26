@@ -1,0 +1,30 @@
+version: "3"
+
+services:
+  db:
+    image: postgres:15
+    container_name: oltp_db
+    environment:
+      POSTGRES_DB: oltp
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - oltp_data:/var/lib/postgresql/data
+
+  data_warehouse:
+    image: postgres:15
+    container_name: data_warehouse_db
+    environment:
+      POSTGRES_DB: data_warehouse
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5433:5432"
+    volumes:
+      - warehouse_data:/var/lib/postgresql/data
+
+  volumes:
+    oltp_data:
+    warehouse_data:

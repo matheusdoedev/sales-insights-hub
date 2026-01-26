@@ -1,0 +1,46 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0">
+  <diagram name="Página-1" id="JrG6rT9yORHQfZ_M4wEH">
+    <mxGraphModel dx="719" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-7" edge="1" parent="1" source="l45kuDKqNBVXXfND3Bo9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l45kuDKqNBVXXfND3Bo9-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Sales Dashboard App" vertex="1">
+          <mxGeometry height="80" width="80" x="100" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-8" edge="1" parent="1" source="l45kuDKqNBVXXfND3Bo9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l45kuDKqNBVXXfND3Bo9-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Api Gateway" vertex="1">
+          <mxGeometry height="80" width="80" x="240" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-9" edge="1" parent="1" source="l45kuDKqNBVXXfND3Bo9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="l45kuDKqNBVXXfND3Bo9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-10" edge="1" parent="1" source="l45kuDKqNBVXXfND3Bo9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l45kuDKqNBVXXfND3Bo9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Broker" vertex="1">
+          <mxGeometry height="80" width="80" x="380" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Sales&lt;div&gt;Service&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="520" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-13" edge="1" parent="1" source="l45kuDKqNBVXXfND3Bo9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="l45kuDKqNBVXXfND3Bo9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Analytics Service" vertex="1">
+          <mxGeometry height="80" width="80" x="520" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Etl Service" vertex="1">
+          <mxGeometry height="80" width="80" x="520" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="l45kuDKqNBVXXfND3Bo9-11" edge="1" parent="1" source="l45kuDKqNBVXXfND3Bo9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;" target="l45kuDKqNBVXXfND3Bo9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

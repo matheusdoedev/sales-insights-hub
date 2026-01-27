@@ -25,6 +25,6 @@ services:
     volumes:
       - warehouse_data:/var/lib/postgresql/data
 
-  volumes:
-    oltp_data:
-    warehouse_data:
+volumes:
+  oltp_data:
+  warehouse_data:

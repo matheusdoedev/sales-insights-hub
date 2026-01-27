@@ -13,3 +13,7 @@
 ## Class Diagram
 
 ![Class Diagram](./sales-insights-hub-class-diagram.jpg)
+
+## Repositories
+
+- [sales-insights-hub-sales-service](https://github.com/matheusdoedev/sales-insights-hub-sales-service)

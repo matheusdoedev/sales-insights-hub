@@ -6,3 +6,6 @@ up-production:
 
 down:
 	docker-compose down --remove-orphans
+
+feed-oltp:
+	k6 run ./feed-oltp-script.js
